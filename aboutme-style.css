@@ -8,6 +8,10 @@
     color: #ebeff3;
     font-family: 'Martel Sans', sans-serif;
 }
+p::first-letter {
+    initial-letter: 3 2;
+    color: red;
+}
 img {
     width: 400px;
 }
@@ -16,6 +20,11 @@ img {
 }
 .fav a{
     color: #ff0000c4;
+    text-decoration: none;
+}
+.fav a:hover{
+    color: #ff0000c4;
+    text-decoration: underline;
 }
 .container h1 {
     color: #6a156b;
