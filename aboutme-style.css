@@ -1,0 +1,28 @@
+.container {
+    width: 1170px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background: #787e84;
+    color: #ebeff3;
+    font-family: 'Martel Sans', sans-serif;
+}
+img {
+    width: 400px;
+}
+.descr > p > b{
+    color: #b89627;
+}
+.fav a{
+    color: #ff0000c4;
+}
+.container h1 {
+    color: #6a156b;
+}
+.moodImg_happy {
+    display: inline-block;
+}
+.moodImg_sad {
+    display: inline-block;
+}
